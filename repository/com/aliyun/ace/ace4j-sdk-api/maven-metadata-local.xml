@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.aliyun.ace</groupId>
+  <artifactId>ace4j-sdk-api</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160309023226</lastUpdated>
+  </versioning>
+</metadata>
