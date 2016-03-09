@@ -4,4 +4,5 @@
   <groupId>com.aliyun.ace</groupId>
   <artifactId>ace4j-log</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
 </project>
