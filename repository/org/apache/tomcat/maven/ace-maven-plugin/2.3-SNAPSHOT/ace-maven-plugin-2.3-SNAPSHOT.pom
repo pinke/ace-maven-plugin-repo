@@ -228,30 +228,10 @@
 
     <!--[ace -->
     <dependency>
-      <groupId>com.alibaba.appengine</groupId>
-      <artifactId>services-api</artifactId>
-      <version>1.4.24</version>
-    </dependency>
-    <dependency>
-      <groupId>com.aliyun.ace</groupId>
-      <artifactId>ace4j-log</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>com.aliyun.ace</groupId>
-      <artifactId>ace4j-sdk-api</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
       <groupId>org.apache.tomcat.maven</groupId>
       <artifactId>ace-lib-fixed</artifactId>
       <version>2.3-SNAPSHOT</version>
     </dependency>
-    <!--<dependency>-->
-      <!--<groupId>com.aliyun.ace</groupId>-->
-      <!--<artifactId>services-lib-api</artifactId>-->
-      <!--<version>1.4.20</version>-->
-    <!--</dependency>-->
     <dependency>
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
